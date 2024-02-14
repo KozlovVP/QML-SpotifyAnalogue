@@ -22,4 +22,12 @@ eng_version of REAMDE.md is located above
 
 ![change](https://github.com/KozlovVP/QML-SpotifyAnalogue/assets/114473389/b6bd5b48-6964-4f5a-a6fd-8adfffb3a6ac)
 
+Плейлист с функцией скроллинга
+
+![playlist](https://github.com/KozlovVP/QML-SpotifyAnalogue/assets/114473389/28a1142a-ad54-4363-a444-32568d095951)
+
+Возможность добавлять новые треки
+
+![find](https://github.com/KozlovVP/QML-SpotifyAnalogue/assets/114473389/41695fff-a2d5-4601-a010-36e1745858f8)
+
 
