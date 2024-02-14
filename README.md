@@ -19,5 +19,7 @@ eng_version of REAMDE.md is located above
 
 ## Демонстрация работы приложения
 Возможность прослушивать и переключать треки
-![change](https://github.com/KozlovVP/QML-SpotifyAnalogue/assets/114473389/a2fda8f7-55df-467f-b313-5b03405d6096)
+
+![change](https://github.com/KozlovVP/QML-SpotifyAnalogue/assets/114473389/b6bd5b48-6964-4f5a-a6fd-8adfffb3a6ac)
+
 
